@@ -1,0 +1,3 @@
+run rethink db and server is connected at
+localhost:8080
+

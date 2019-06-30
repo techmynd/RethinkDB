@@ -1,0 +1,7 @@
+C:\rethinkdb-2.3.6
+
+run rethink / go to localhost:8080
+
+run app
+> node app.js
+
