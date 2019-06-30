@@ -1,6 +1,6 @@
 const r = require("rethinkdb");
-
-r.connect(
+ 
+r.connect( 
   {
     host: "localhost",
     // default port
